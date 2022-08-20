@@ -1,0 +1,45 @@
+#container{
+    width: 400px;
+    background-color: aliceblue;
+    padding: 20px;
+}
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+ul,li{
+    margin: 0;
+    padding: 0;
+    list-style-type: square;
+}
+
+.list{
+    margin: 15px;
+}
+
+.list>li{
+    background-color:antiquewhite;
+    padding: 5px;
+    margin-bottom: 2px;
+}
+
+#namespan{
+    
+    margin-right: 20px;
+}
+
+#button{
+    font-size: 20;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:blanchedalmond;
+    padding: 1em 2.1em 1.1em;
+    border-radius: 3px;
+    margin-top: 20px;
+    width: 100%;
+    
+}
+#fullname_input{
+    margin-bottom: 15px;
+}
