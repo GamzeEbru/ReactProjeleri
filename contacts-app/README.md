@@ -1,2 +1,2 @@
 ### Proje Görünümü
-![alt text](contacts-app/Animation.gif)
+![Uygulama Ekran Görüntüsü](https://github.com/GamzeEbru/ReactProjeleri/blob/main/contacts-app/Animation.gif)
